@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstThemeEntegrationProject", "FirstThemeEntegrationProject\FirstThemeEntegrationProject.csproj", "{3E0B295E-C953-481A-907B-0DE60B174609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0B295E-C953-481A-907B-0DE60B174609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0B295E-C953-481A-907B-0DE60B174609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0B295E-C953-481A-907B-0DE60B174609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0B295E-C953-481A-907B-0DE60B174609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD30D5C1-FE05-48D4-9450-998E32A5F973}
+	EndGlobalSection
+EndGlobal
